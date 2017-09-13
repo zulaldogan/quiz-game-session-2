@@ -1,0 +1,48 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\works\QuizGameSession2\Builds\QuizLiveBuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.926 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.826387 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 12e8 -> priority: 1 
+  Thread -> id: 15f8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483708 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.203925 ms (FindLiveObjects: 0.019187 ms CreateObjectMapping: 0.022311 ms MarkObjects: 0.157517 ms  DeleteObjects: 0.004462 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.699152 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 0.503342 ms (FindLiveObjects: 0.039267 ms CreateObjectMapping: 0.037482 ms MarkObjects: 0.415882 ms  DeleteObjects: 0.010263 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at GameController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
